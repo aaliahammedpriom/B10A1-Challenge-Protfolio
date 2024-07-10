@@ -211,8 +211,233 @@ a{
     height: 48px;
     padding: 12px 17px;
 }
+#sec3 .box .sbox5{
+
+}
+#sec3 .box .sbox5. .heading{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+}
+#sec3 .box .sbox5 .description{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    opacity: 0.7;
+}
+#sec3 .box .sbox6{
+
+}
+#sec3 .box .sbox6. .heading{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+}
+#sec3 .box .sbox6 .description{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    opacity: 0.7;
+}
+#sec3 .box .sbox6 .target{
+    display: flex;
+    justify-content: space-between;
+}
+#sec3 .box .sbox7{
+
+}
+#sec3 .box .sbox7. .heading{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+}
+#sec3 .box .sbox7 .description{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    opacity: 0.7;
+}
+#sec3 .box .sbox8{
+
+}
+#sec3 .box .sbox8 .target{
+    display: flex;
+
+}
+#sec3 .box .sbox8 .target .left{
+/* image section */
+}
+#sec3 .box .sbox8 .target .right{
+    /* heading , description, ancor section */
+    text-align: left;
+
+
+}
+#sec3 .box .sbox8 .target .right .heading{
+    /* heading */
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 21px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+}
+#sec3 .box .sbox8 .target .right .description{
+    /* description */
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    opacity: 0.7;
+
+
+}
+#sec3 .box .sbox8 .target .right .link{
+    /* ancor */
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+
+
+}
+
+#sec3 .box .sbox8 .target .right{
+    
+}
+
+#sec3 .box .sbox9{
+
+}
+#sec3 .box .sbox9 .target{
+    display: flex;
+
+}
+#sec3 .box .sbox9 .target .left{
+/* image section */
+}
+#sec3 .box .sbox9 .target .right{
+    /* heading , description, ancor section */
+    text-align: left;
+
+
+}
+#sec3 .box .sbox9 .target .right .heading{
+    /* heading */
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 21px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+}
+#sec3 .box .sbox9 .target .right .description{
+    /* description */
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    opacity: 0.7;
+
+
+}
+#sec3 .box .sbox9 .target .right .link{
+    /* ancor */
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+
+
+}
+
+#sec3 .box .sbox9 .target .right{
+    
+}
 
 
 
 
+#sec3 .box .sbox10{
+
+}
+#sec3 .box .sbox10 .target{
+    display: flex;
+
+}
+#sec3 .box .sbox10 .target .left{
+/* image section */
+}
+#sec3 .box .sbox10 .target .right{
+    /* heading , description, ancor section */
+    text-align: left;
+
+
+}
+#sec3 .box .sbox10 .target .right .heading{
+    /* heading */
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 21px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+}
+#sec3 .box .sbox10 .target .right .description{
+    /* description */
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    opacity: 0.7;
+
+
+}
+#sec3 .box .sbox10 .target .right .link{
+    /* ancor */
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+
+
+}
+
+#sec3 .box .sbox10 .target .right{
+    
+}
+
+#sec3 .box .sbox11{
+    background-image: url("../assets/Hero-bg.png");
+}
 
