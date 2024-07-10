@@ -1,9 +1,13 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
 font-family: "Azeret Mono", monospace; */
-/* nav section */
-#sec1{
 
-}
+
+
+/* nav section */
+/* #sec1{
+
+} */
+
 #sec1 .box{
     display: flex;
     justify-content: space-around;
@@ -14,7 +18,6 @@ font-family: "Azeret Mono", monospace; */
     font-size: 25px;
     font-weight: 800;
     line-height: 33px;
-    letter-spacing: 0%;
     text-align: left;
 }
 #sec1 .box .btn{
@@ -32,6 +35,9 @@ a{
     opacity: 0.8;
 
 }
+
+
+
 /* main section 2 */
 #sec2{
     /* Hero-bg */
@@ -39,6 +45,7 @@ a{
     display: flex;
     justify-content: center;
     text-align: center;
+    padding-bottom: 80px;
 }
 #sec2 .box{
     width: 888px;
@@ -89,10 +96,10 @@ a{
 
 }
 /* sub box 1 */
-#sec3 .box .sbox1{
+/* #sec3 .box .sbox1{
 
-}
-#sec3 .box .sbox1. .heading{
+} */
+#sec3 .box .sbox1 .heading{
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
     font-size: 28px;
@@ -212,15 +219,14 @@ a{
     padding: 12px 17px;
 }
 #sec3 .box .sbox5{
-
+    padding-bottom: 80px;
 }
-#sec3 .box .sbox5. .heading{
+#sec3 .box .sbox5 .heading{
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
     font-size: 28px;
     font-weight: 800;
     line-height: 37px;
-    letter-spacing: 0%;
 }
 #sec3 .box .sbox5 .description{
     color: rgb(13, 19, 33);
@@ -231,10 +237,10 @@ a{
     letter-spacing: 0%;
     opacity: 0.7;
 }
-#sec3 .box .sbox6{
+/* #sec3 .box .sbox6{
 
-}
-#sec3 .box .sbox6. .heading{
+} */
+#sec3 .box .sbox6 .heading{
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
     font-size: 28px;
@@ -255,10 +261,29 @@ a{
     display: flex;
     justify-content: space-between;
 }
-#sec3 .box .sbox7{
-
+#sec3 .box .sbox6 .target .html{
+    background-color: rgba(255, 76, 30, 0.05);
+    margin: 0px 24px;
+    border-radius: 14px;
+    padding: 40px;
 }
-#sec3 .box .sbox7. .heading{
+#sec3 .box .sbox6 .target .css{
+    background-color: rgba(0, 76, 232, 0.05);
+    margin: 0px 24px;
+    border-radius: 14px;
+    padding: 40px;
+}
+#sec3 .box .sbox6 .target .js{
+    background-color: rgba(255, 223, 0, 0.05);
+    margin: 0px 24px;
+    border-radius: 14px;
+    padding: 40px;
+}
+
+#sec3 .box .sbox7{
+    padding-bottom: 80px;
+}
+#sec3 .box .sbox7 .heading{
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
     font-size: 28px;
@@ -276,20 +301,30 @@ a{
     opacity: 0.7;
 }
 #sec3 .box .sbox8{
-
+padding-bottom: 80px;
 }
 #sec3 .box .sbox8 .target{
     display: flex;
 
 }
-#sec3 .box .sbox8 .target .left{
-/* image section */
-}
+/* #sec3 .box .sbox8 .target .left{
+/* image section
+} */
 #sec3 .box .sbox8 .target .right{
     /* heading , description, ancor section */
+    width: 600px;
     text-align: left;
+    margin-left: 80px;
+}
+#sec3 .box .sbox8 .target .left{
+    /* heading , description, ancor section */
+    width: 150px;
+    height: 150px;
 
 
+}
+#sec3 .box .sbox8 .target .left a{
+    text-align: left;
 }
 #sec3 .box .sbox8 .target .right .heading{
     /* heading */
@@ -320,6 +355,32 @@ a{
     font-weight: 700;
     line-height: 19px;
     letter-spacing: 0%;
+    text-align: left;
+}
 
+#sec3 .box .sbox11{
+    background-image: url("../assets/handshake.jpg");
+    text-align: center;
+    justify-content: center;
+    
+}
+#sec3 .box .sbox11 .heading{
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: center;
 
+}
+#sec3 .box .sbox11 .description{
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    
 }
