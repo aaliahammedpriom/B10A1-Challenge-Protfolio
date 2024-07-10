@@ -1,0 +1,218 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+font-family: "Azeret Mono", monospace; */
+/* nav section */
+#sec1{
+
+}
+#sec1 .box{
+    display: flex;
+    justify-content: space-around;
+}
+#sec1 .box .heading{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 25px;
+    font-weight: 800;
+    line-height: 33px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+#sec1 .box .btn{
+    background-color: rgb(255, 255, 255);
+    width: 185px;
+    height: 66px;
+    margin: 28px 0px;
+    border-radius: 7px;
+}
+a{
+    /* Inside Auto Layout */
+    color: rgb(13, 19, 33);
+    padding: 18px 24px 18px 24px;
+    text-decoration: none;
+    opacity: 0.8;
+
+}
+/* main section 2 */
+#sec2{
+    /* Hero-bg */
+    background-image: url("../assets/Hero-bg.png");
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#sec2 .box{
+    width: 888px;
+    height: 590px;
+
+}
+#sec2 .box .img{
+    width: 213px;
+    height: 213px ;
+}
+#sec2 .box .heading{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 42px;
+    font-weight: 800;
+    line-height: 69px;
+    letter-spacing: 0%;
+}
+#sec2 .box .description{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    opacity: 0.7;
+}
+#sec2 .box .btn{
+    width: 185px;
+    height: 66px;
+    /* Inside Auto Layout */
+    color: rgb(255, 255, 255);
+    padding: 18px 24px 18px 24px;
+    margin: 28px 0px;
+    border-radius: 7px;
+    background-color: rgb(13, 19, 33);
+}
+
+/* main section 3 */
+#sec3{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#sec3 .box{
+    width: 888px;
+    height: 590px;
+
+}
+/* sub box 1 */
+#sec3 .box .sbox1{
+
+}
+#sec3 .box .sbox1. .heading{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+}#sec3 .box .sbox1 .description{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    opacity: 0.7;
+}
+/* sub box 2 */
+#sec3 .box .sbox2{
+    display: flex;
+    justify-content: space-between;
+    padding: 43px;
+
+}
+#sec3 .box .sbox2 .left{
+    text-align: left;
+
+}
+#sec3 .box .sbox2 .heading{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 36px;
+}
+#sec3 .box .sbox2 .description{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    opacity: 0.7;
+}
+#sec3 .box .sbox2 .btn{
+    background-color: rgb(255, 255, 255);
+    width: 133px;
+    height: 48px;
+    padding: 12px 17px;
+}
+
+
+/* sub box 3 */
+#sec3 .box .sbox3{
+    display: flex;
+    justify-content: space-between;
+    padding: 43px;
+
+}
+#sec3 .box .sbox3 .right{
+    text-align: left;
+
+}
+#sec3 .box .sbox3 .heading{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 36px;
+}
+#sec3 .box .sbox3 .description{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    opacity: 0.7;
+}
+#sec3 .box .sbox3 .btn{
+    background-color: rgb(255, 255, 255);
+    width: 133px;
+    height: 48px;
+    padding: 12px 17px;
+}
+
+
+/* sub box 4 */
+#sec3 .box .sbox4{
+    display: flex;
+    justify-content: space-between;
+    padding: 43px;
+
+}
+#sec3 .box .sbox4 .left{
+    text-align: left;
+
+}
+#sec3 .box .sbox4 .heading{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 36px;
+}
+#sec3 .box .sbox4 .description{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    opacity: 0.7;
+}
+#sec3 .box .sbox4 .btn{
+    background-color: rgb(255, 255, 255);
+    width: 133px;
+    height: 48px;
+    padding: 12px 17px;
+}
+
+
+
+
+
